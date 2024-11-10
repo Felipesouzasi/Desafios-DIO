@@ -29,9 +29,3 @@ calculadora-partidas-rankeadas/
 │
 ├── calculadora_ranked.py   # Código principal da calculadora
 └── README.md               # Descrição do projeto
-
-## 🚀 Como Executar
-Clone o repositório:
-git clone https://github.com/seu-usuario/calculadora-partidas-rankeadas.git
-Navegue até o diretório e execute o código em um ambiente Python.
-
