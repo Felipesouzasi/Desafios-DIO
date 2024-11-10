@@ -22,7 +22,10 @@ O Herói tem um saldo de 85 e está no nível Diamante
 
 ## 📦 Estrutura do Projeto
 Calculadora-Partidas-Rankeadas/
+
 │
+
 ├── Calculator.py     # Código principal da calculadora
+
 └── README.md         # Descrição do projeto
 
