@@ -8,11 +8,16 @@ Após exibir o nível, o programa pergunta se o usuário deseja verificar outro 
 
 ## 💡 Exemplos de Uso
 Número de vitórias: 30
+
 Número de derrotas: 5
+
 O Herói tem um saldo de 25 e está no nível Prata
 
+
 Número de vitórias: 90
+
 Número de derrotas: 5
+
 O Herói tem um saldo de 85 e está no nível Diamante 
 
 ## 📦 Estrutura do Projeto
