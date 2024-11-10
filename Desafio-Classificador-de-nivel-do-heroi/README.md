@@ -1,5 +1,5 @@
 # classificador-de-heroi
-Esse é um desafio da DIO proposto pelo Felipão. Eu escolhi python e esse projeto classifica o nível de um herói com base na quantidade de experiência(XP) acumulada. O objetivo principal é aplicar conceitos básicos de programação, como variáveis, estruturas de decisão (if-elif-else), laços de repetição (while) e validação de entrada de dados.
+Esse é um desafio da DIO proposto pelo Felipão. Eu escolhi python e esse projeto classifica o nível de um herói com base na quantidade de experiência(XP) acumulada. O objetivo principal é aplicar conceitos básicos de programação, como variáveis, estruturas de decisão, laços de repetição, operadores lógicos e validação de entrada de dados.
 
 ## 📋 Funcionalidades
 O programa solicita o nome do herói e a quantidade de XP (experiência).
