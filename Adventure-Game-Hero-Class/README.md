@@ -21,12 +21,12 @@ Este projeto faz parte de um desafio de programação em Python. A proposta é c
 3. O programa pergunta se o jogador deseja jogar novamente. Caso sim, ele pode criar um novo herói e atacar novamente.
 
 ## 📂 Estrutura do Projeto
-
+```bash
 Adventure-Game-Hero-Class/
 │
 ├── Hero.py            # Código principal do jogo com a definição da classe Hero
 └── README.md          # Descrição do projeto
-
+```
 ## 🚀 Como Executar o Projeto
 
 1. Clone este repositório.
