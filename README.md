@@ -1,6 +1,6 @@
 # 🚀 Desafio DIO - Felipão
 
-Este repositório reúne três desafios propostos durante a jornada de aprendizado promovida pela Digital Innovation One (DIO) e guiada pelo Felipão. Decidi realizar os desafios em Python, com o objetivo de consolidar conceitos fundamentais de programação e aplicar a linguagem em problemas práticos e criativos.
+Este repositório reúne três desafios propostos durante a jornada de aprendizado promovida pela Digital Innovation One (DIO) e guiada pelo Felipão. Decidi realizar os desafios em Python, com o objetivo de recordar e consolidar conceitos fundamentais de programação e aplicar a linguagem em problemas práticos e criativos.
 
 ## 📂 Desafios
 
@@ -30,8 +30,12 @@ Os desafios deste repositório foram projetados para reforçar:
 - **Lógica de Programação:** Estruturas de decisão, laços de repetição, operadores lógicos, manipulação de variáveis, funções e classes.
 - **Resolução de Problemas:** Abordagem prática para solucionar desafios reais.
 
+---
+
 ## 💻 Tecnologias Utilizadas
 - **Linguagem:** Python 3
+
+---
 
 ## 🏁 Como Usar
 1. Clone este repositório:
