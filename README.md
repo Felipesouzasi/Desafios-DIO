@@ -40,4 +40,4 @@ Os desafios deste repositório foram projetados para reforçar:
 ## 🏁 Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/FelipeSouzasi/Desafios-DIO.git
